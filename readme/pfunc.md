@@ -12,7 +12,7 @@ From the main directory, run the following command:
 ./scripts/pfun.sh <number of files to view>
 ```
 
-For example, this will sleep for 3 files:
+For example, this will display 3 files:
 
 ```shell
 ./scripts/pfunc.sh 3

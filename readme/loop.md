@@ -12,7 +12,7 @@ From the main directory, run the following command:
 ./scripts/loop.sh <number of files to display>
 ```
 
-For example, this will sleep for 3 files:
+For example, this will display 3 files:
 
 ```shell
 ./scripts/loop.sh 3
