@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 COUNT=1
 ENDLOOP=$1
