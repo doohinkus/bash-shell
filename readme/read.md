@@ -9,11 +9,11 @@ This script uses the read function to display a given number of names in names.t
 From the main directory, run the following command:
 
 ```shell
-./scripts/read.sh <number of names to read>
+./scripts/read.sh <file to read>
 ```
 
 For example, this will read for 3 names from ./scripts/names.txt:
 
 ```shell
-./scripts/read.sh 3
+./scripts/read.sh ./scripts/names.txt
 ```
