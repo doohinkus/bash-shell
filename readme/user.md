@@ -1,4 +1,4 @@
-# End (./scripts/user.sh)
+# User (./scripts/user.sh)
 
 ## Description
 
