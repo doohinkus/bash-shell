@@ -1,4 +1,4 @@
-# End (./scripts/prompt.sh)
+# Prompt (./scripts/prompt.sh)
 
 ## Description
 
