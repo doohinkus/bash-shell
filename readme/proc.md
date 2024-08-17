@@ -1,4 +1,4 @@
-# Pipe (./scripts/proc.sh)
+# Proccess (./scripts/proc.sh)
 
 ## Description
 
