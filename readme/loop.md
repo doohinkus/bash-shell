@@ -1,4 +1,4 @@
-# Delay (./scripts/delay.sh)
+# Delay (./scripts/loop.sh)
 
 ## Description
 
